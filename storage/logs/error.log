@@ -1,0 +1,258 @@
+2017-07-31 9:01:29 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\serveris\oc\system\library\mail\mail.php on line 77
+2017-07-31 9:01:45 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\serveris\oc\system\library\mail\mail.php on line 77
+2017-07-31 9:01:53 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\serveris\oc\system\library\mail\mail.php on line 77
+2017-07-31 12:06:35 - PHP Notice:  Undefined variable: data in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-07-31 12:06:57 - PHP Notice:  Undefined variable: data in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-07-31 12:07:20 - PHP Notice:  Undefined variable: data in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-07-31 12:17:34 - PHP Notice:  Undefined variable: url in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-07-31 12:19:02 - PHP Notice:  Undefined index: firstname in C:\serveris\oc\admin\controller\customer\customer.php on line 972
+2017-07-31 12:19:02 - PHP Notice:  Undefined index: lastname in C:\serveris\oc\admin\controller\customer\customer.php on line 976
+2017-07-31 12:19:02 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 980
+2017-07-31 12:19:02 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 980
+2017-07-31 12:19:02 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 984
+2017-07-31 12:19:02 - PHP Notice:  Undefined index: telephone in C:\serveris\oc\admin\controller\customer\customer.php on line 996
+2017-07-31 12:19:02 - PHP Notice:  Undefined index: customer_group_id in C:\serveris\oc\admin\controller\customer\customer.php on line 1003
+2017-07-31 12:19:02 - PHP Notice:  Undefined index: password in C:\serveris\oc\admin\controller\customer\customer.php on line 1013
+2017-07-31 12:19:02 - PHP Notice:  Undefined index: affiliate in C:\serveris\oc\admin\controller\customer\customer.php on line 1067
+2017-07-31 12:46:18 - PHP Notice:  Undefined index: firstname in C:\serveris\oc\admin\controller\customer\customer.php on line 973
+2017-07-31 12:46:18 - PHP Notice:  Undefined index: lastname in C:\serveris\oc\admin\controller\customer\customer.php on line 977
+2017-07-31 12:46:18 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 981
+2017-07-31 12:46:18 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 981
+2017-07-31 12:46:18 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 985
+2017-07-31 12:46:18 - PHP Notice:  Undefined index: telephone in C:\serveris\oc\admin\controller\customer\customer.php on line 997
+2017-07-31 12:46:18 - PHP Notice:  Undefined index: customer_group_id in C:\serveris\oc\admin\controller\customer\customer.php on line 1004
+2017-07-31 12:46:18 - PHP Notice:  Undefined index: password in C:\serveris\oc\admin\controller\customer\customer.php on line 1014
+2017-07-31 12:46:18 - PHP Notice:  Undefined index: affiliate in C:\serveris\oc\admin\controller\customer\customer.php on line 1068
+2017-07-31 12:47:07 - PHP Notice:  Undefined index: firstname in C:\serveris\oc\admin\controller\customer\customer.php on line 973
+2017-07-31 12:47:07 - PHP Notice:  Undefined index: lastname in C:\serveris\oc\admin\controller\customer\customer.php on line 977
+2017-07-31 12:47:07 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 981
+2017-07-31 12:47:07 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 981
+2017-07-31 12:47:07 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 985
+2017-07-31 12:47:07 - PHP Notice:  Undefined index: telephone in C:\serveris\oc\admin\controller\customer\customer.php on line 997
+2017-07-31 12:47:07 - PHP Notice:  Undefined index: customer_group_id in C:\serveris\oc\admin\controller\customer\customer.php on line 1004
+2017-07-31 12:47:07 - PHP Notice:  Undefined index: password in C:\serveris\oc\admin\controller\customer\customer.php on line 1014
+2017-07-31 12:47:07 - PHP Notice:  Undefined index: affiliate in C:\serveris\oc\admin\controller\customer\customer.php on line 1068
+2017-07-31 12:48:41 - PHP Notice:  Undefined index: firstname in C:\serveris\oc\admin\controller\customer\customer.php on line 973
+2017-07-31 12:48:41 - PHP Notice:  Undefined index: lastname in C:\serveris\oc\admin\controller\customer\customer.php on line 977
+2017-07-31 12:48:41 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 981
+2017-07-31 12:48:41 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 981
+2017-07-31 12:48:41 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 985
+2017-07-31 12:48:41 - PHP Notice:  Undefined index: telephone in C:\serveris\oc\admin\controller\customer\customer.php on line 997
+2017-07-31 12:48:41 - PHP Notice:  Undefined index: customer_group_id in C:\serveris\oc\admin\controller\customer\customer.php on line 1004
+2017-07-31 12:48:41 - PHP Notice:  Undefined index: password in C:\serveris\oc\admin\controller\customer\customer.php on line 1014
+2017-07-31 12:48:41 - PHP Notice:  Undefined index: affiliate in C:\serveris\oc\admin\controller\customer\customer.php on line 1068
+2017-07-31 13:02:21 - PHP Notice:  Undefined index: firstname in C:\serveris\oc\admin\controller\customer\customer.php on line 973
+2017-07-31 13:02:21 - PHP Notice:  Undefined index: lastname in C:\serveris\oc\admin\controller\customer\customer.php on line 977
+2017-07-31 13:02:21 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 981
+2017-07-31 13:02:21 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 981
+2017-07-31 13:02:21 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 985
+2017-07-31 13:02:21 - PHP Notice:  Undefined index: telephone in C:\serveris\oc\admin\controller\customer\customer.php on line 997
+2017-07-31 13:02:21 - PHP Notice:  Undefined index: customer_group_id in C:\serveris\oc\admin\controller\customer\customer.php on line 1004
+2017-07-31 13:02:21 - PHP Notice:  Undefined index: password in C:\serveris\oc\admin\controller\customer\customer.php on line 1014
+2017-07-31 13:02:21 - PHP Notice:  Undefined index: affiliate in C:\serveris\oc\admin\controller\customer\customer.php on line 1068
+2017-07-31 13:03:29 - PHP Notice:  Undefined index: firstname in C:\serveris\oc\admin\controller\customer\customer.php on line 974
+2017-07-31 13:03:29 - PHP Notice:  Undefined index: lastname in C:\serveris\oc\admin\controller\customer\customer.php on line 978
+2017-07-31 13:03:29 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 982
+2017-07-31 13:03:29 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 982
+2017-07-31 13:03:29 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 986
+2017-07-31 13:03:29 - PHP Notice:  Undefined index: telephone in C:\serveris\oc\admin\controller\customer\customer.php on line 998
+2017-07-31 13:03:29 - PHP Notice:  Undefined index: customer_group_id in C:\serveris\oc\admin\controller\customer\customer.php on line 1005
+2017-07-31 13:03:29 - PHP Notice:  Undefined index: password in C:\serveris\oc\admin\controller\customer\customer.php on line 1015
+2017-07-31 13:03:29 - PHP Notice:  Undefined index: affiliate in C:\serveris\oc\admin\controller\customer\customer.php on line 1069
+2017-07-31 13:03:43 - PHP Notice:  Undefined index: firstname in C:\serveris\oc\admin\controller\customer\customer.php on line 974
+2017-07-31 13:03:43 - PHP Notice:  Undefined index: lastname in C:\serveris\oc\admin\controller\customer\customer.php on line 978
+2017-07-31 13:03:43 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 982
+2017-07-31 13:03:43 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 982
+2017-07-31 13:03:43 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 986
+2017-07-31 13:03:43 - PHP Notice:  Undefined index: telephone in C:\serveris\oc\admin\controller\customer\customer.php on line 998
+2017-07-31 13:03:43 - PHP Notice:  Undefined index: customer_group_id in C:\serveris\oc\admin\controller\customer\customer.php on line 1005
+2017-07-31 13:03:43 - PHP Notice:  Undefined index: password in C:\serveris\oc\admin\controller\customer\customer.php on line 1015
+2017-07-31 13:03:43 - PHP Notice:  Undefined index: affiliate in C:\serveris\oc\admin\controller\customer\customer.php on line 1069
+2017-07-31 13:08:38 - PHP Notice:  Undefined index: firstname in C:\serveris\oc\admin\controller\customer\customer.php on line 976
+2017-07-31 13:08:38 - PHP Notice:  Undefined index: lastname in C:\serveris\oc\admin\controller\customer\customer.php on line 980
+2017-07-31 13:08:38 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 984
+2017-07-31 13:08:38 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 984
+2017-07-31 13:08:38 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 988
+2017-07-31 13:08:38 - PHP Notice:  Undefined index: telephone in C:\serveris\oc\admin\controller\customer\customer.php on line 1000
+2017-07-31 13:08:38 - PHP Notice:  Undefined index: customer_group_id in C:\serveris\oc\admin\controller\customer\customer.php on line 1007
+2017-07-31 13:08:38 - PHP Notice:  Undefined index: password in C:\serveris\oc\admin\controller\customer\customer.php on line 1017
+2017-07-31 13:08:38 - PHP Notice:  Undefined index: affiliate in C:\serveris\oc\admin\controller\customer\customer.php on line 1071
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Notice:  Undefined variable: con in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:50:50 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\serveris\oc\admin\controller\customer\customer.php on line 38
+2017-07-31 13:55:11 - PHP Warning:  Missing argument 2 for ModelCustomerCustomer::addSpecialPrice() in C:\serveris\oc\admin\model\customer\customer.php on line 4
+2017-07-31 13:55:11 - PHP Notice:  Array to string conversion in C:\serveris\oc\admin\model\customer\customer.php on line 14
+2017-07-31 13:56:02 - PHP Warning:  Missing argument 2 for ModelCustomerCustomer::addSpecialPrice() in C:\serveris\oc\admin\model\customer\customer.php on line 4
+2017-07-31 13:56:02 - PHP Notice:  Array to string conversion in C:\serveris\oc\admin\model\customer\customer.php on line 14
+2017-07-31 13:59:30 - PHP Warning:  Missing argument 2 for ModelCustomerCustomer::addSpecialPrice() in C:\serveris\oc\admin\model\customer\customer.php on line 4
+2017-07-31 13:59:30 - PHP Notice:  Array to string conversion in C:\serveris\oc\admin\model\customer\customer.php on line 15
+2017-07-31 13:59:45 - PHP Warning:  Missing argument 2 for ModelCustomerCustomer::addSpecialPrice() in C:\serveris\oc\admin\model\customer\customer.php on line 4
+2017-07-31 13:59:45 - PHP Notice:  Array to string conversion in C:\serveris\oc\admin\model\customer\customer.php on line 15
+2017-07-31 14:00:13 - PHP Notice:  Array to string conversion in C:\serveris\oc\admin\model\customer\customer.php on line 15
+2017-07-31 14:00:25 - PHP Notice:  Array to string conversion in C:\serveris\oc\admin\model\customer\customer.php on line 15
+2017-07-31 14:00:52 - PHP Notice:  Array to string conversion in C:\serveris\oc\admin\model\customer\customer.php on line 15
+2017-07-31 15:56:03 - PHP Notice:  Undefined index: tmp_name in C:\serveris\oc\admin\controller\customer\customer.php on line 22
+2017-07-31 15:56:03 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:56:03 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:56:22 - PHP Notice:  Undefined index: tmp_name in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-07-31 15:56:22 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:56:22 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:56:42 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\controller\customer\customer.php on line 23
+2017-07-31 15:56:42 - PHP Notice:  Undefined index: tmp_name in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-07-31 15:56:42 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:56:42 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:56:54 - PHP Notice:  Undefined index: tmp_name in C:\serveris\oc\admin\controller\customer\customer.php on line 23
+2017-07-31 15:56:54 - PHP Notice:  Undefined index: tmp_name in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-07-31 15:56:54 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:56:54 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:57:03 - PHP Notice:  Undefined index: tmp_name in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-07-31 15:57:03 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:57:03 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:57:15 - PHP Notice:  Undefined index: tmp_name in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-07-31 15:57:15 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:57:15 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:57:47 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\controller\customer\customer.php on line 23
+2017-07-31 15:57:47 - PHP Notice:  Undefined index: tmp_name in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-07-31 15:57:47 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:57:47 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:57:58 - PHP Notice:  Undefined index: tmp_name in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-07-31 15:57:58 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:57:58 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:58:12 - PHP Notice:  Undefined index: tmp_name in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-07-31 15:58:12 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:58:12 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:58:31 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:58:31 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:59:07 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:59:07 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:59:09 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:59:09 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:59:58 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 15:59:58 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 16:00:16 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 16:00:16 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 16:00:31 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 16:00:31 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 16:00:34 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 16:00:34 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 16:00:55 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 16:00:55 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 16:01:18 - PHP Notice:  Undefined variable: query in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 16:01:18 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 27
+2017-07-31 16:02:59 - PHP Warning:  Missing argument 1 for DB::query(), called in C:\serveris\oc\admin\model\customer\customer.php on line 28 and defined in C:\serveris\oc\system\library\db.php on line 44
+2017-07-31 16:02:59 - PHP Notice:  Undefined variable: sql in C:\serveris\oc\system\library\db.php on line 45
+2017-07-31 16:02:59 - PHP Warning:  mysqli::query(): Empty query in C:\serveris\oc\system\library\db\mysqli.php on line 18
+2017-07-31 16:02:59 - PHP Notice:  Trying to get property of non-object in C:\serveris\oc\admin\model\customer\customer.php on line 29
+2017-07-31 16:04:24 - PHP Notice:  Undefined variable: data in C:\serveris\oc\admin\controller\customer\customer.php on line 33
+2017-07-31 16:31:54 - PHP Notice:  Array to string conversion in C:\serveris\oc\storage\cache\19\19702e24e49413c309b3f737d9dd3c6f48f6463bd46af352a0007a48d490946d.php on line 2827
+2017-07-31 16:31:54 - PHP Notice:  Array to string conversion in C:\serveris\oc\storage\cache\19\19702e24e49413c309b3f737d9dd3c6f48f6463bd46af352a0007a48d490946d.php on line 2837
+2017-07-31 16:33:15 - PHP Notice:  Array to string conversion in C:\serveris\oc\storage\cache\19\19702e24e49413c309b3f737d9dd3c6f48f6463bd46af352a0007a48d490946d.php on line 2827
+2017-07-31 16:33:15 - PHP Notice:  Array to string conversion in C:\serveris\oc\storage\cache\19\19702e24e49413c309b3f737d9dd3c6f48f6463bd46af352a0007a48d490946d.php on line 2837
+2017-07-31 16:33:26 - PHP Notice:  Array to string conversion in C:\serveris\oc\storage\cache\19\19702e24e49413c309b3f737d9dd3c6f48f6463bd46af352a0007a48d490946d.php on line 2827
+2017-07-31 16:33:26 - PHP Notice:  Array to string conversion in C:\serveris\oc\storage\cache\19\19702e24e49413c309b3f737d9dd3c6f48f6463bd46af352a0007a48d490946d.php on line 2837
+2017-07-31 16:33:42 - PHP Notice:  Array to string conversion in C:\serveris\oc\system\library\template\Twig\Environment.php(403) : eval()'d code on line 2839
+2017-07-31 16:33:42 - PHP Notice:  Array to string conversion in C:\serveris\oc\system\library\template\Twig\Environment.php(403) : eval()'d code on line 2839
+2017-07-31 16:34:36 - PHP Notice:  Array to string conversion in C:\serveris\oc\storage\cache\19\19702e24e49413c309b3f737d9dd3c6f48f6463bd46af352a0007a48d490946d.php on line 2839
+2017-07-31 16:34:36 - PHP Notice:  Array to string conversion in C:\serveris\oc\storage\cache\19\19702e24e49413c309b3f737d9dd3c6f48f6463bd46af352a0007a48d490946d.php on line 2839
+2017-07-31 17:20:12 - PHP Notice:  Array to string conversion in C:\serveris\oc\system\library\template\Twig\Environment.php(403) : eval()'d code on line 2840
+2017-07-31 19:02:50 - PHP Notice:  Undefined offset: 1 in C:\serveris\oc\admin\model\customer\customer.php on line 15
+2017-07-31 19:54:19 - PHP Notice:  Undefined index: row_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 19:54:19 - PHP Notice:  Undefined index: column_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 19:54:19 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 19:55:43 - PHP Notice:  Undefined index: row_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 19:55:43 - PHP Notice:  Undefined index: column_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 19:55:43 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:03:04 - PHP Notice:  Undefined index: row_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:03:04 - PHP Notice:  Undefined index: column_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:03:04 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:04:54 - PHP Notice:  Undefined index: row_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:04:54 - PHP Notice:  Undefined index: column_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:04:54 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:07:15 - PHP Notice:  Undefined index: row_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:07:15 - PHP Notice:  Undefined index: column_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:07:15 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:07:50 - PHP Notice:  Undefined index: row_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:07:50 - PHP Notice:  Undefined index: column_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:07:50 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:08:05 - PHP Notice:  Undefined index: row_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:08:05 - PHP Notice:  Undefined index: column_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:08:05 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:09:11 - PHP Notice:  Undefined index: row_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:09:11 - PHP Notice:  Undefined index: column_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:09:11 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:09:27 - PHP Notice:  Undefined index: row_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:09:27 - PHP Notice:  Undefined index: column_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:09:27 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:10:47 - PHP Notice:  Undefined index: row_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:10:47 - PHP Notice:  Undefined index: column_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:10:47 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:11:37 - PHP Notice:  Undefined index: row_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:11:37 - PHP Notice:  Undefined index: column_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:11:37 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:12:20 - PHP Notice:  Undefined index: row_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:12:20 - PHP Notice:  Undefined index: column_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:12:20 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:14:43 - PHP Notice:  Undefined index: column_id in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:14:43 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 20:15:08 - PHP Notice:  Undefined index: value in C:\serveris\oc\admin\controller\customer\customer.php on line 42
+2017-07-31 21:17:51 - PHP Notice:  Undefined index: row_id in C:\serveris\oc\admin\controller\customer\customer.php on line 47
+2017-08-01 9:49:19 - PHP Warning:  Missing argument 1 for ModelCustomerCustomer::getSpecialPrices() in C:\serveris\oc\admin\model\customer\customer.php on line 32
+2017-08-01 9:49:19 - PHP Notice:  Undefined variable: customer_id in C:\serveris\oc\admin\model\customer\customer.php on line 50
+2017-08-01 9:51:07 - PHP Warning:  Missing argument 1 for ModelCustomerCustomer::getSpecialPrices() in C:\serveris\oc\admin\model\customer\customer.php on line 32
+2017-08-01 9:51:07 - PHP Notice:  Undefined variable: customer_id in C:\serveris\oc\admin\model\customer\customer.php on line 34
+2017-08-01 9:51:56 - PHP Notice:  Undefined index: customer_id in C:\serveris\oc\admin\controller\customer\customer.php on line 22
+2017-08-01 9:52:14 - PHP Notice:  Undefined index: customer_id in C:\serveris\oc\admin\controller\customer\customer.php on line 23
+2017-08-01 9:52:36 - PHP Notice:  Undefined index: customer_id in C:\serveris\oc\admin\controller\customer\customer.php on line 23
+2017-08-01 9:56:20 - PHP Notice:  Array to string conversion in C:\serveris\oc\system\library\template\Twig\Environment.php(403) : eval()'d code on line 2849
+2017-08-01 10:18:37 - PHP Notice:  Undefined index: firstname in C:\serveris\oc\admin\controller\customer\customer.php on line 982
+2017-08-01 10:18:37 - PHP Notice:  Undefined index: lastname in C:\serveris\oc\admin\controller\customer\customer.php on line 986
+2017-08-01 10:18:37 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 990
+2017-08-01 10:18:37 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 990
+2017-08-01 10:18:37 - PHP Notice:  Undefined index: email in C:\serveris\oc\admin\controller\customer\customer.php on line 994
+2017-08-01 10:18:37 - PHP Notice:  Undefined index: telephone in C:\serveris\oc\admin\controller\customer\customer.php on line 1006
+2017-08-01 10:18:37 - PHP Notice:  Undefined index: customer_group_id in C:\serveris\oc\admin\controller\customer\customer.php on line 1013
+2017-08-01 10:18:37 - PHP Notice:  Undefined index: password in C:\serveris\oc\admin\controller\customer\customer.php on line 1023
+2017-08-01 10:18:37 - PHP Notice:  Undefined index: affiliate in C:\serveris\oc\admin\controller\customer\customer.php on line 1077
+2017-08-01 10:19:47 - PHP Notice:  Undefined variable: url in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-08-01 10:20:37 - PHP Notice:  Undefined variable: url in C:\serveris\oc\admin\controller\customer\customer.php on line 25
+2017-08-01 10:20:42 - PHP Notice:  Undefined index: customer_id in C:\serveris\oc\admin\controller\customer\customer.php on line 563
+2017-08-01 10:25:38 - PHP Notice:  Undefined variable: url in C:\serveris\oc\admin\controller\customer\customer.php on line 22
